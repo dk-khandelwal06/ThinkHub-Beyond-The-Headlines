@@ -38,7 +38,7 @@
 
 | Thumbnail | Episode | Episode Title | YouTube |
 |:---:|:---:|:---|:---:|
-| <img src="thumbnails/1.png" width="120"> | **001** | Beyond The Headlines #001 \| Real News, Deeper Perspective \| 1st June 2026 | Episode 1 |
+| <img src="thumbnails/1.png" width="120"> | **001** | Beyond The Headlines #001 \| Real News, Deeper Perspective \| 1st June 2026 | [Episode 1](https://youtu.be/hYua8AsqzNg?si=FYl5Z27fatqx6TnQ) |
 | <img src="thumbnails/2.png" width="120"> | **002** | Beyond The Headlines #002 \| Real News, Deeper Perspective \| 2nd June 2026 | Episode 2 |
 | <img src="thumbnails/3.png" width="120"> | **003** | Beyond The Headlines #003 \| Real News, Deeper Perspective \| 3rd June 2026 | Episode 3 |
 | <img src="thumbnails/4.png" width="120"> | **004** | Beyond The Headlines #004 \| Real News, Deeper Perspective \| 4th June 2026 | Episode 4 |
