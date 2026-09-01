@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/thinkhub-logo.png" width="10%" alt="ThinkHub Banner">
+  <img src="assets/thinkhub-logo.png" width="25%" alt="ThinkHub Banner">
 </p>
 
 <h1 align="center">Beyond The Headlines</h1>
