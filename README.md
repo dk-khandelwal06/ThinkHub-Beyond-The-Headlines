@@ -44,7 +44,7 @@
 | <img src="thumbnails/4.png" width="120"> | **004** | Beyond The Headlines #004 \| Real News, Deeper Perspective \| 4th June 2026 | [Episode 4](https://youtu.be/hmnnRgLkLk0?si=tuOTTbCsNZUj6t_O) |
 | <img src="thumbnails/5.png" width="120"> | **005** | Beyond The Headlines #005 \| Real News, Deeper Perspective \| 5th June 2026 | [Episode 5](https://youtu.be/7myYLv4m0UY?si=V8rr3BxaBu0wT9Cd) |
 | <img src="thumbnails/6.png" width="120"> | **006** | Beyond The Headlines #006 \| Real News, Deeper Perspective \| 6th June 2026 | [Episode 6](https://youtu.be/Hbv-DVN75Q8?si=_9cKap7_5wXIHyVw) |
-| <img src="thumbnails/7.png" width="120"> | **007** | Beyond The Headlines #007 \| Real News, Deeper Perspective \| 7th June 2026 | [Episode 7](https://youtu.be/Hbv-DVN75Q8?si=mf6dkx2hgWm4evj-) |
+| <img src="thumbnails/7.png" width="120"> | **007** | Beyond The Headlines #007 \| Real News, Deeper Perspective \| 7th June 2026 | [Episode 7](https://youtu.be/hNT03oZ8dx8?si=8zKTqZWYRTj7bevF) |
 | <img src="thumbnails/8.png" width="120"> | **008** | Beyond The Headlines #008 \| Real News, Deeper Perspective \| 8th June 2026 | [Episode 8](https://youtu.be/AnsE3Yvou3s?si=NbGGVD_065K2DnP1) |
 | <img src="thumbnails/9.png" width="120"> | **009** | Beyond The Headlines #009 \| Real News, Deeper Perspective \| 9th June 2026 | [Episode 9](https://youtu.be/kioWhlhNkZA?si=9kDJh02XzR0X-_JI) |
 | <img src="thumbnails/10.png" width="120"> | **0010** | Beyond The Headlines #0010 \| Real News, Deeper Perspective \| 10th June 2026 | [Episode 10](https://youtu.be/wzWji0NBgkA?si=EzHb5xfMz5an51Uf) |
