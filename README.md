@@ -5,7 +5,11 @@
 <h1 align="center">Beyond The Headlines</h1>
 
 <p align="center">
-  <b>[A ThinkHub Original Series](https://www.youtube.com/@ThinkHubbydaksh)</b>
+  <strong>
+    <a href="https://www.youtube.com/@ThinkHubbydaksh">
+      A ThinkHub Original Series
+    </a>
+  </strong>
 </p>
 
 <p align="center">
@@ -22,7 +26,7 @@
 
 ## 📰 About The Series
 
-**Beyond The Headlines** is ThinkHub's flagship daily news and analysis series, covering current affairs, artificial intelligence, technology, geopolitics, business, science, and the deeper perspective behind the headlines.
+**Beyond The Headlines** is [ThinkHub's](https://www.youtube.com/@ThinkHubbydaksh) flagship daily news and analysis series, covering current affairs, artificial intelligence, technology, geopolitics, business, science, and the deeper perspective behind the headlines.
 
 > **Started:** 1st June 2026  
 > **Publishing Schedule:** Daily Morning Uploads  
@@ -112,8 +116,8 @@
 | <img src="thumbnails/72.png" width="120"> | **0072** | Beyond The Headlines #0072 \| Real News, Deeper Perspective \| 11th August 2026 | [Episode 72](https://youtu.be/5C3YVMd_zTI?si=uEWb2i6xuut-lbdh) |
 | <img src="thumbnails/73.png" width="120"> | **0073** | Beyond The Headlines #0073 \| Real News, Deeper Perspective \| 12th August 2026 | [Episode 73](https://youtu.be/55lSd7-oFo0?si=T0cFCYgWdZTvnuR_) |
 | <img src="thumbnails/74.png" width="120"> | **0074** | Beyond The Headlines #0074 \| Real News, Deeper Perspective \| 13th August 2026 | [Episode 74](https://youtu.be/OGWcX_CFsJI?si=XfqMFACor09Lm9up) |
-| <img src="thumbnails/75.png" width="120"> | **0075** | Beyond The Headlines #0075 \| Real News, Deeper Perspective \| 14th August 2026 | [Episode 75](https://youtu.be/-8fHw7jo1NY?si=l2cIlHek2TnJgBIF) |
-| <img src="thumbnails/76.png" width="120"> | **0076** | Beyond The Headlines #0076 \| Real News, Deeper Perspective \| 15th August 2026 | [Episode 76](https://youtu.be/Pcz0ipE0CyE?si=DKH6FhmhH_c1GLhY) |
+| <img src="thumbnails/75.png" width="120"> | **0075** | Beyond The Headlines #0075 \| Real News, Deeper Perspective \| 14th August 2026 | [Episode 75](https://youtu.be/Ese1BHJhzwU?si=5yTtb_h3_03UGqFc) |
+| <img src="thumbnails/76.png" width="120"> | **0076** | Beyond The Headlines #0076 \| Real News, Deeper Perspective \| 15th August 2026 | [Episode 76](https://youtu.be/-8fHw7jo1NY?si=l2cIlHek2TnJgBIF) |
 | <img src="thumbnails/77.png" width="120"> | **0077** | Beyond The Headlines #0077 \| Real News, Deeper Perspective \| 16th August 2026 | [Episode 77](https://youtu.be/Pcz0ipE0CyE?si=alIP7-stn3E-b2ay) |
 | <img src="thumbnails/78.png" width="120"> | **0078** | Beyond The Headlines #0078 \| Real News, Deeper Perspective \| 17th August 2026 | [Episode 78](https://youtu.be/PInSLA128Ws?si=kKeCPOKxjnRneoAw) |
 | <img src="thumbnails/79.png" width="120"> | **0079** | Beyond The Headlines #0079 \| Real News, Deeper Perspective \| 18th August 2026 | [Episode 79](https://youtu.be/G41bQ9g5bC8?si=jG2l-rgsTOCImd8a) |
