@@ -5,7 +5,7 @@
 <h1 align="center">Beyond The Headlines</h1>
 
 <p align="center">
-  <b>A ThinkHub Original Series</b>
+  <b>[A ThinkHub Original Series](https://www.youtube.com/@ThinkHubbydaksh)</b>
 </p>
 
 <p align="center">
@@ -98,39 +98,39 @@
 | <img src="thumbnails/58.png" width="120"> | **0058** | Beyond The Headlines #0058 \| Real News, Deeper Perspective \| 28th July 2026 | [Episode 58](https://youtu.be/vaDy5FbipNk?si=rOPgRPQ3FXfB-rO6) |
 | <img src="thumbnails/59.png" width="120"> | **0059** | Beyond The Headlines #0059 \| Real News, Deeper Perspective \| 29th July 2026 | [Episode 59](https://youtu.be/ynQ6rHAMSpM?si=ECr-B6lDj2F8kr6Z) |
 | <img src="thumbnails/60.png" width="120"> | **0060** | Beyond The Headlines #0060 \| Real News, Deeper Perspective \| 30th July 2026 | [Episode 60](https://youtu.be/7EmHo0OX35A?si=jh2laGOwhOLQmJ06) |
-| <img src="thumbnails/61.png" width="120"> | **0061** | Beyond The Headlines #0061 \| Real News, Deeper Perspective \| 31st July 2026 | [Episode 61]() |
-| <img src="thumbnails/62.png" width="120"> | **0062** | Beyond The Headlines #0062 \| Real News, Deeper Perspective \| 1st August 2026 | [Episode 62]() |
-| <img src="thumbnails/63.png" width="120"> | **0063** | Beyond The Headlines #0063 \| Real News, Deeper Perspective \| 2nd August 2026 | [Episode 63]() |
-| <img src="thumbnails/64.png" width="120"> | **0064** | Beyond The Headlines #0064 \| Real News, Deeper Perspective \| 3rd August 2026 | [Episode 64]() |
-| <img src="thumbnails/65.png" width="120"> | **0065** | Beyond The Headlines #0065 \| Real News, Deeper Perspective \| 4th August 2026 | [Episode 65]() |
-| <img src="thumbnails/66.png" width="120"> | **0066** | Beyond The Headlines #0066 \| Real News, Deeper Perspective \| 5th August 2026 | [Episode 66]() |
-| <img src="thumbnails/67.png" width="120"> | **0067** | Beyond The Headlines #0067 \| Real News, Deeper Perspective \| 6th August 2026 | [Episode 67]() |
-| <img src="thumbnails/68.png" width="120"> | **0068** | Beyond The Headlines #0068 \| Real News, Deeper Perspective \| 7th August 2026 | [Episode 68]() |
-| <img src="thumbnails/69.png" width="120"> | **0069** | Beyond The Headlines #0069 \| Real News, Deeper Perspective \| 8th August 2026 | [Episode 69]() |
-| <img src="thumbnails/70.png" width="120"> | **0070** | Beyond The Headlines #0070 \| Real News, Deeper Perspective \| 9th August 2026 | [Episode 70]() |
-| <img src="thumbnails/71.png" width="120"> | **0071** | Beyond The Headlines #0071 \| Real News, Deeper Perspective \| 10th August 2026 | [Episode 71]() |
-| <img src="thumbnails/72.png" width="120"> | **0072** | Beyond The Headlines #0072 \| Real News, Deeper Perspective \| 11th August 2026 | [Episode 72]() |
-| <img src="thumbnails/73.png" width="120"> | **0073** | Beyond The Headlines #0073 \| Real News, Deeper Perspective \| 12th August 2026 | [Episode 73]() |
-| <img src="thumbnails/74.png" width="120"> | **0074** | Beyond The Headlines #0074 \| Real News, Deeper Perspective \| 13th August 2026 | [Episode 74]() |
-| <img src="thumbnails/75.png" width="120"> | **0075** | Beyond The Headlines #0075 \| Real News, Deeper Perspective \| 14th August 2026 | [Episode 75]() |
-| <img src="thumbnails/76.png" width="120"> | **0076** | Beyond The Headlines #0076 \| Real News, Deeper Perspective \| 15th August 2026 | [Episode 76]() |
-| <img src="thumbnails/77.png" width="120"> | **0077** | Beyond The Headlines #0077 \| Real News, Deeper Perspective \| 16th August 2026 | [Episode 77]() |
-| <img src="thumbnails/78.png" width="120"> | **0078** | Beyond The Headlines #0078 \| Real News, Deeper Perspective \| 17th August 2026 | [Episode 78]() |
-| <img src="thumbnails/79.png" width="120"> | **0079** | Beyond The Headlines #0079 \| Real News, Deeper Perspective \| 18th August 2026 | [Episode 79]() |
-| <img src="thumbnails/80.png" width="120"> | **0080** | Beyond The Headlines #0080 \| Real News, Deeper Perspective \| 19th August 2026 | [Episode 80]() |
-| <img src="thumbnails/81.png" width="120"> | **0081** | Beyond The Headlines #0081 \| Real News, Deeper Perspective \| 20th August 2026 | [Episode 81]() |
-| <img src="thumbnails/82.png" width="120"> | **0082** | Beyond The Headlines #0082 \| Real News, Deeper Perspective \| 21st August 2026 | [Episode 82]() |
-| <img src="thumbnails/83.png" width="120"> | **0083** | Beyond The Headlines #0083 \| Real News, Deeper Perspective \| 22nd August 2026 | [Episode 83]() |
-| <img src="thumbnails/84.png" width="120"> | **0084** | Beyond The Headlines #0084 \| Real News, Deeper Perspective \| 23rd August 2026 | [Episode 84]() |
-| <img src="thumbnails/85.png" width="120"> | **0085** | Beyond The Headlines #0085 \| Real News, Deeper Perspective \| 24th August 2026 | [Episode 85]() |
-| <img src="thumbnails/86.png" width="120"> | **0086** | Beyond The Headlines #0086 \| Real News, Deeper Perspective \| 25th August 2026 | [Episode 86]() |
-| <img src="thumbnails/87.png" width="120"> | **0087** | Beyond The Headlines #0087 \| Real News, Deeper Perspective \| 26th August 2026 | [Episode 87]() |
-| <img src="thumbnails/88.png" width="120"> | **0088** | Beyond The Headlines #0088 \| Real News, Deeper Perspective \| 27th August 2026 | [Episode 88]() |
-| <img src="thumbnails/89.png" width="120"> | **0089** | Beyond The Headlines #0089 \| Real News, Deeper Perspective \| 28th August 2026 | [Episode 89]() |
-| <img src="thumbnails/90.png" width="120"> | **0090** | Beyond The Headlines #0090 \| Real News, Deeper Perspective \| 29th August 2026 | [Episode 90]() |
-| <img src="thumbnails/91.png" width="120"> | **0091** | Beyond The Headlines #0091 \| Real News, Deeper Perspective \| 30th August 2026 | [Episode 91]() |
-| <img src="thumbnails/92.png" width="120"> | **0092** | Beyond The Headlines #0092 \| Real News, Deeper Perspective \| 31st August 2026 | [Episode 92]() |
-| <img src="thumbnails/93.png" width="120"> | **0093** | Beyond The Headlines #0093 \| Real News, Deeper Perspective \| 1st September 2026 | [Episode 93]() |
+| <img src="thumbnails/61.png" width="120"> | **0061** | Beyond The Headlines #0061 \| Real News, Deeper Perspective \| 31st July 2026 | [Episode 61](https://youtu.be/gdNQPPbUzSo?si=W8Hq3TiPjCnPpyZs) |
+| <img src="thumbnails/62.png" width="120"> | **0062** | Beyond The Headlines #0062 \| Real News, Deeper Perspective \| 1st August 2026 | [Episode 62](https://youtu.be/BUGELcI_syY?si=K0fo3qAbK8_AMzfa) |
+| <img src="thumbnails/63.png" width="120"> | **0063** | Beyond The Headlines #0063 \| Real News, Deeper Perspective \| 2nd August 2026 | [Episode 63](https://youtu.be/YikOQOE4JCk?si=xHgWDlLSL-kZ-q6X) |
+| <img src="thumbnails/64.png" width="120"> | **0064** | Beyond The Headlines #0064 \| Real News, Deeper Perspective \| 3rd August 2026 | [Episode 64](https://youtu.be/PJ-IXUjqsyY?si=w0tPq-RDxOjyha6y) |
+| <img src="thumbnails/65.png" width="120"> | **0065** | Beyond The Headlines #0065 \| Real News, Deeper Perspective \| 4th August 2026 | [Episode 65](https://youtu.be/N6-B11Yeags?si=kKDp8dqXuaeXKJv3) |
+| <img src="thumbnails/66.png" width="120"> | **0066** | Beyond The Headlines #0066 \| Real News, Deeper Perspective \| 5th August 2026 | [Episode 66](https://youtu.be/OAowiTNnLEw?si=HEFA4ePKksALQk6G) |
+| <img src="thumbnails/67.png" width="120"> | **0067** | Beyond The Headlines #0067 \| Real News, Deeper Perspective \| 6th August 2026 | [Episode 67](https://youtu.be/Gmg5uT7mxps?si=nR-kH9ibeIwUafiD) |
+| <img src="thumbnails/68.png" width="120"> | **0068** | Beyond The Headlines #0068 \| Real News, Deeper Perspective \| 7th August 2026 | [Episode 68](https://youtu.be/fyzR6MBMDGQ?si=B4DbjWZRx07AtuxA) |
+| <img src="thumbnails/69.png" width="120"> | **0069** | Beyond The Headlines #0069 \| Real News, Deeper Perspective \| 8th August 2026 | [Episode 69](https://youtu.be/dVP5Ux20VE4?si=Zbpjk8YBhZA3SqMu) |
+| <img src="thumbnails/70.png" width="120"> | **0070** | Beyond The Headlines #0070 \| Real News, Deeper Perspective \| 9th August 2026 | [Episode 70](https://youtu.be/HrO-SW9E8yQ?si=hvg4cwm3P53K5ZS_) |
+| <img src="thumbnails/71.png" width="120"> | **0071** | Beyond The Headlines #0071 \| Real News, Deeper Perspective \| 10th August 2026 | [Episode 71](https://youtu.be/g-J7DOZvMOQ?si=5lqHIk2qABpiuUA_) |
+| <img src="thumbnails/72.png" width="120"> | **0072** | Beyond The Headlines #0072 \| Real News, Deeper Perspective \| 11th August 2026 | [Episode 72](https://youtu.be/5C3YVMd_zTI?si=uEWb2i6xuut-lbdh) |
+| <img src="thumbnails/73.png" width="120"> | **0073** | Beyond The Headlines #0073 \| Real News, Deeper Perspective \| 12th August 2026 | [Episode 73](https://youtu.be/55lSd7-oFo0?si=T0cFCYgWdZTvnuR_) |
+| <img src="thumbnails/74.png" width="120"> | **0074** | Beyond The Headlines #0074 \| Real News, Deeper Perspective \| 13th August 2026 | [Episode 74](https://youtu.be/OGWcX_CFsJI?si=XfqMFACor09Lm9up) |
+| <img src="thumbnails/75.png" width="120"> | **0075** | Beyond The Headlines #0075 \| Real News, Deeper Perspective \| 14th August 2026 | [Episode 75](https://youtu.be/-8fHw7jo1NY?si=l2cIlHek2TnJgBIF) |
+| <img src="thumbnails/76.png" width="120"> | **0076** | Beyond The Headlines #0076 \| Real News, Deeper Perspective \| 15th August 2026 | [Episode 76](https://youtu.be/Pcz0ipE0CyE?si=DKH6FhmhH_c1GLhY) |
+| <img src="thumbnails/77.png" width="120"> | **0077** | Beyond The Headlines #0077 \| Real News, Deeper Perspective \| 16th August 2026 | [Episode 77](https://youtu.be/Pcz0ipE0CyE?si=alIP7-stn3E-b2ay) |
+| <img src="thumbnails/78.png" width="120"> | **0078** | Beyond The Headlines #0078 \| Real News, Deeper Perspective \| 17th August 2026 | [Episode 78](https://youtu.be/PInSLA128Ws?si=kKeCPOKxjnRneoAw) |
+| <img src="thumbnails/79.png" width="120"> | **0079** | Beyond The Headlines #0079 \| Real News, Deeper Perspective \| 18th August 2026 | [Episode 79](https://youtu.be/G41bQ9g5bC8?si=jG2l-rgsTOCImd8a) |
+| <img src="thumbnails/80.png" width="120"> | **0080** | Beyond The Headlines #0080 \| Real News, Deeper Perspective \| 19th August 2026 | [Episode 80](https://youtu.be/Q-ZN3dEs9QM?si=GnLugNttQmuLtFiu) |
+| <img src="thumbnails/81.png" width="120"> | **0081** | Beyond The Headlines #0081 \| Real News, Deeper Perspective \| 20th August 2026 | [Episode 81](https://youtu.be/mB268UgokEs?si=3yoJ94b0favSwe59) |
+| <img src="thumbnails/82.png" width="120"> | **0082** | Beyond The Headlines #0082 \| Real News, Deeper Perspective \| 21st August 2026 | [Episode 82](https://youtu.be/_Jw5Qv3g03Y?si=zxIAMOmlBRDayjY1) |
+| <img src="thumbnails/83.png" width="120"> | **0083** | Beyond The Headlines #0083 \| Real News, Deeper Perspective \| 22nd August 2026 | [Episode 83](https://youtu.be/AmrFuS6MtFc?si=9ju8Q9qQlB9Bk0_t) |
+| <img src="thumbnails/84.png" width="120"> | **0084** | Beyond The Headlines #0084 \| Real News, Deeper Perspective \| 23rd August 2026 | [Episode 84](https://youtu.be/iOKwMPkj198?si=NRgU03UzqaJUGZlD) |
+| <img src="thumbnails/85.png" width="120"> | **0085** | Beyond The Headlines #0085 \| Real News, Deeper Perspective \| 24th August 2026 | [Episode 85](https://youtu.be/NbKQwujCyhU?si=wqyliZITDapw8gRV) |
+| <img src="thumbnails/86.png" width="120"> | **0086** | Beyond The Headlines #0086 \| Real News, Deeper Perspective \| 25th August 2026 | [Episode 86](https://youtu.be/0PG0QdEaoag?si=aPiCiXtT4diCZDaq) |
+| <img src="thumbnails/87.png" width="120"> | **0087** | Beyond The Headlines #0087 \| Real News, Deeper Perspective \| 26th August 2026 | [Episode 87](https://youtu.be/Z9ujwEV3nc4?si=gaPUQna3IrN0zfH_) |
+| <img src="thumbnails/88.png" width="120"> | **0088** | Beyond The Headlines #0088 \| Real News, Deeper Perspective \| 27th August 2026 | [Episode 88](https://youtu.be/NwVCI3CBKaE?si=wVfaQqkZRDCD6yJy) |
+| <img src="thumbnails/89.png" width="120"> | **0089** | Beyond The Headlines #0089 \| Real News, Deeper Perspective \| 28th August 2026 | [Episode 89](https://youtu.be/jSv1M3KZSvE?si=-exCPMRBJdzAn_j5) |
+| <img src="thumbnails/90.png" width="120"> | **0090** | Beyond The Headlines #0090 \| Real News, Deeper Perspective \| 29th August 2026 | [Episode 90](https://youtu.be/kyYyHCfMZL8?si=2WWRwQjtT3KJ26bu) |
+| <img src="thumbnails/91.png" width="120"> | **0091** | Beyond The Headlines #0091 \| Real News, Deeper Perspective \| 30th August 2026 | [Episode 91](https://youtu.be/pOb_L7xCINw?si=LZTeuLigXqtbnazx) |
+| <img src="thumbnails/92.png" width="120"> | **0092** | Beyond The Headlines #0092 \| Real News, Deeper Perspective \| 31st August 2026 | [Episode 92](https://youtu.be/yh5uwe1kMkU?si=tuNj5aBR1EBjI6ct) |
+| <img src="thumbnails/93.png" width="120"> | **0093** | Beyond The Headlines #0093 \| Real News, Deeper Perspective \| 1st September 2026 | [Episode 93](https://youtu.be/KOrmp12rRE8?si=ZFsIdfpY9UZJwWzd) |
 | <img src="thumbnails/94.png" width="120"> | **0094** |  | Episode 94 |
 | <img src="thumbnails/95.png" width="120"> | **0095** |  | Episode 95 |
 | <img src="thumbnails/96.png" width="120"> | **0096** |  | Episode 96 |
