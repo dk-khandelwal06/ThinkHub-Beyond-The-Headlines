@@ -140,7 +140,7 @@
 | <img src="thumbnails/96.png" width="120"> | **0096** | Beyond The Headlines #0096 \| Real News, Deeper Perspective \| 4th September 2026 | [Episode 96](https://youtu.be/nZtKz7LCh38?si=417dHzbZEBwLESH2) |
 | <img src="thumbnails/97.png" width="120"> | **0097** | Beyond The Headlines #0097 \| Real News, Deeper Perspective \| 5th September 2026 | [Episode 97](https://youtu.be/rj3B9jMSfY4?si=PW0A0jJBC6AfN8R7) |
 | <img src="thumbnails/98.png" width="120"> | **0098** | Beyond The Headlines #0098 \| Real News, Deeper Perspective \| 6th September 2026 | [Episode 98](https://youtu.be/kWxUHg0nLMw?si=AbMMR9xmrJ5APyAK) |
-| <img src="thumbnails/99.png" width="120"> | **0099** |  | Episode 99 |
+| <img src="thumbnails/99.png" width="120"> | **0099** | Beyond The Headlines #0099 \| Real News, Deeper Perspective \| 7th September 2026 | [Episode 99](https://youtu.be/GTADGHDb1Ig?si=yHwQOeQwe4NXKY6Z) |
 | <img src="thumbnails/100.png" width="120"> | **0100** |  | Episode 100 |
 | <img src="thumbnails/101.png" width="120"> | **0101** |  | Episode 101 |
 | <img src="thumbnails/102.png" width="120"> | **0102** |  | Episode 102 |
