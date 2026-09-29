@@ -162,7 +162,7 @@
 | <img src="thumbnails/118.png" width="120"> | **0118** | Beyond The Headlines #0118 \| Real News, Deeper Perspective \| 26th September 2026 | [Episode 118](https://youtu.be/OxFrR7qA5_4?si=qQLPrA_Z5-3qLNoK) |
 | <img src="thumbnails/119.png" width="120"> | **0119** | Beyond The Headlines #0119 \| Real News, Deeper Perspective \| 27th September 2026 | [Episode 119](https://youtu.be/upFzej7xYmc?si=o6fzvaWU0ImnKt4q) |
 | <img src="thumbnails/120.png" width="120"> | **0120** | Beyond The Headlines #0120 \| Real News, Deeper Perspective \| 28th September 2026 | [Episode 120](https://youtu.be/WnCW5G8FLlI?si=7t_sehCBuYXTSPcZ) |
-| <img src="thumbnails/121.png" width="120"> | **0121** |  | Episode 121 |
+| <img src="thumbnails/121.png" width="120"> | **0121** | Beyond The Headlines #0121 \| Real News, Deeper Perspective \| 29th September 2026 | [Episode 121](https://youtu.be/Awh_Kvslxlc?si=55Pfg_tjyH9vwqVP) |
 | <img src="thumbnails/122.png" width="120"> | **0122** |  | Episode 122 |
 | <img src="thumbnails/123.png" width="120"> | **0123** |  | Episode 123 |
 | <img src="thumbnails/124.png" width="120"> | **0124** |  | Episode 124 |
