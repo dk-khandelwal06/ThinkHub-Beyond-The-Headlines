@@ -170,78 +170,78 @@
 | <img src="thumbnails/126.png" width="120"> | **0126** | Beyond The Headlines #0126 \| Real News, Deeper Perspective \| 4th October 2026 | [Episode 126](https://youtu.be/GeUAMLsffXU?si=J1nIktVR5gg-H3p9) |
 | <img src="thumbnails/127.png" width="120"> | **0127** | Beyond The Headlines #0127 \| Real News, Deeper Perspective \| 5th October 2026 | [Episode 127](https://youtu.be/iFlJSgz_zzE?si=EpJfLWqYNbI6wq36) |
 | <img src="thumbnails/128.png" width="120"> | **0128** | Beyond The Headlines #0128 \| Real News, Deeper Perspective \| 6th October 2026 | [Episode 128](https://youtu.be/1bjB8BVlcis?si=Xo6m7xqFyfMtY3H0) |
-| <img src="thumbnails/129.png" width="120"> | **0129** |  | Episode 129 |
-| <img src="thumbnails/130.png" width="120"> | **0130** |  | Episode 130 |
-| <img src="thumbnails/131.png" width="120"> | **0131** |  | Episode 131 |
-| <img src="thumbnails/132.png" width="120"> | **0132** |  | Episode 132 |
-| <img src="thumbnails/133.png" width="120"> | **0133** |  | Episode 133 |
-| <img src="thumbnails/134.png" width="120"> | **0134** |  | Episode 134 |
-| <img src="thumbnails/135.png" width="120"> | **0135** |  | Episode 135 |
-| <img src="thumbnails/136.png" width="120"> | **0136** |  | Episode 136 |
-| <img src="thumbnails/137.png" width="120"> | **0137** |  | Episode 137 |
-| <img src="thumbnails/138.png" width="120"> | **0138** |  | Episode 138 |
-| <img src="thumbnails/139.png" width="120"> | **0139** |  | Episode 139 |
-| <img src="thumbnails/140.png" width="120"> | **0140** |  | Episode 140 |
-| <img src="thumbnails/141.png" width="120"> | **0141** |  | Episode 141 |
-| <img src="thumbnails/142.png" width="120"> | **0142** |  | Episode 142 |
-| <img src="thumbnails/143.png" width="120"> | **0143** |  | Episode 143 |
-| <img src="thumbnails/144.png" width="120"> | **0144** |  | Episode 144 |
-| <img src="thumbnails/145.png" width="120"> | **0145** |  | Episode 145 |
-| <img src="thumbnails/146.png" width="120"> | **0146** |  | Episode 146 |
-| <img src="thumbnails/147.png" width="120"> | **0147** |  | Episode 147 |
-| <img src="thumbnails/148.png" width="120"> | **0148** |  | Episode 148 |
-| <img src="thumbnails/149.png" width="120"> | **0149** |  | Episode 149 |
-| <img src="thumbnails/150.png" width="120"> | **0150** |  | Episode 150 |
-| <img src="thumbnails/151.png" width="120"> | **0151** |  | Episode 151 |
-| <img src="thumbnails/152.png" width="120"> | **0152** |  | Episode 152 |
-| <img src="thumbnails/153.png" width="120"> | **0153** |  | Episode 153 |
-| <img src="thumbnails/154.png" width="120"> | **0154** |  | Episode 154 |
-| <img src="thumbnails/155.png" width="120"> | **0155** |  | Episode 155 |
-| <img src="thumbnails/156.png" width="120"> | **0156** |  | Episode 156 |
-| <img src="thumbnails/157.png" width="120"> | **0157** |  | Episode 157 |
-| <img src="thumbnails/158.png" width="120"> | **0158** |  | Episode 158 |
-| <img src="thumbnails/159.png" width="120"> | **0159** |  | Episode 159 |
-| <img src="thumbnails/160.png" width="120"> | **0160** |  | Episode 160 |
-| <img src="thumbnails/161.png" width="120"> | **0161** |  | Episode 161 |
-| <img src="thumbnails/162.png" width="120"> | **0162** |  | Episode 162 |
-| <img src="thumbnails/163.png" width="120"> | **0163** |  | Episode 163 |
-| <img src="thumbnails/164.png" width="120"> | **0164** |  | Episode 164 |
-| <img src="thumbnails/165.png" width="120"> | **0165** |  | Episode 165 |
-| <img src="thumbnails/166.png" width="120"> | **0166** |  | Episode 166 |
-| <img src="thumbnails/167.png" width="120"> | **0167** |  | Episode 167 |
-| <img src="thumbnails/168.png" width="120"> | **0168** |  | Episode 168 |
-| <img src="thumbnails/169.png" width="120"> | **0169** |  | Episode 169 |
-| <img src="thumbnails/170.png" width="120"> | **0170** |  | Episode 170 |
-| <img src="thumbnails/171.png" width="120"> | **0171** |  | Episode 171 |
-| <img src="thumbnails/172.png" width="120"> | **0172** |  | Episode 172 |
-| <img src="thumbnails/173.png" width="120"> | **0173** |  | Episode 173 |
-| <img src="thumbnails/174.png" width="120"> | **0174** |  | Episode 174 |
-| <img src="thumbnails/175.png" width="120"> | **0175** |  | Episode 175 |
-| <img src="thumbnails/176.png" width="120"> | **0176** |  | Episode 176 |
-| <img src="thumbnails/177.png" width="120"> | **0177** |  | Episode 177 |
-| <img src="thumbnails/178.png" width="120"> | **0178** |  | Episode 178 |
-| <img src="thumbnails/179.png" width="120"> | **0179** |  | Episode 179 |
-| <img src="thumbnails/180.png" width="120"> | **0180** |  | Episode 180 |
-| <img src="thumbnails/181.png" width="120"> | **0181** |  | Episode 181 |
-| <img src="thumbnails/182.png" width="120"> | **0182** |  | Episode 182 |
-| <img src="thumbnails/183.png" width="120"> | **0183** |  | Episode 183 |
-| <img src="thumbnails/184.png" width="120"> | **0184** |  | Episode 184 |
-| <img src="thumbnails/185.png" width="120"> | **0185** |  | Episode 185 |
-| <img src="thumbnails/186.png" width="120"> | **0186** |  | Episode 186 |
-| <img src="thumbnails/187.png" width="120"> | **0187** |  | Episode 187 |
-| <img src="thumbnails/188.png" width="120"> | **0188** |  | Episode 188 |
-| <img src="thumbnails/189.png" width="120"> | **0189** |  | Episode 189 |
-| <img src="thumbnails/190.png" width="120"> | **0190** |  | Episode 190 |
-| <img src="thumbnails/191.png" width="120"> | **0191** |  | Episode 191 |
-| <img src="thumbnails/192.png" width="120"> | **0192** |  | Episode 192 |
-| <img src="thumbnails/193.png" width="120"> | **0193** |  | Episode 193 |
-| <img src="thumbnails/194.png" width="120"> | **0194** |  | Episode 194 |
-| <img src="thumbnails/195.png" width="120"> | **0195** |  | Episode 195 |
-| <img src="thumbnails/196.png" width="120"> | **0196** |  | Episode 196 |
-| <img src="thumbnails/197.png" width="120"> | **0197** |  | Episode 197 |
-| <img src="thumbnails/198.png" width="120"> | **0198** |  | Episode 198 |
-| <img src="thumbnails/199.png" width="120"> | **0199** |  | Episode 199 |
-| <img src="thumbnails/200.png" width="120"> | **0200** |  | Episode 200 |
+| <img src="thumbnails/129.png" width="120"> | **0129** | Beyond The Headlines #0129 \| Real News, Deeper Perspective \| 7th October 2026 | [Episode 129]() |
+| <img src="thumbnails/130.png" width="120"> | **0130** | Beyond The Headlines #0130 \| Real News, Deeper Perspective \| 8th October 2026 | [Episode 130]() |
+| <img src="thumbnails/131.png" width="120"> | **0131** | Beyond The Headlines #0131 \| Real News, Deeper Perspective \| 9th October 2026 | [Episode 131]() |
+| <img src="thumbnails/132.png" width="120"> | **0132** | Beyond The Headlines #0132 \| Real News, Deeper Perspective \| 10th October 2026 | [Episode 132]() |
+| <img src="thumbnails/133.png" width="120"> | **0133** | Beyond The Headlines #0133 \| Real News, Deeper Perspective \| 11th October 2026 | [Episode 133]() |
+| <img src="thumbnails/134.png" width="120"> | **0134** | Beyond The Headlines #0134 \| Real News, Deeper Perspective \| 12th October 2026 | [Episode 134]() |
+| <img src="thumbnails/135.png" width="120"> | **0135** | Beyond The Headlines #0135 \| Real News, Deeper Perspective \| 13th October 2026 | [Episode 135]() |
+| <img src="thumbnails/136.png" width="120"> | **0136** | Beyond The Headlines #0136 \| Real News, Deeper Perspective \| 14th October 2026 | [Episode 136]() |
+| <img src="thumbnails/137.png" width="120"> | **0137** | Beyond The Headlines #0137 \| Real News, Deeper Perspective \| 15th October 2026 | [Episode 137]() |
+| <img src="thumbnails/138.png" width="120"> | **0138** | Beyond The Headlines #0138 \| Real News, Deeper Perspective \| 16th October 2026 | [Episode 138]() |
+| <img src="thumbnails/139.png" width="120"> | **0139** | Beyond The Headlines #0139 \| Real News, Deeper Perspective \| 17th October 2026 | [Episode 139]() |
+| <img src="thumbnails/140.png" width="120"> | **0140** | Beyond The Headlines #0140 \| Real News, Deeper Perspective \| 18th October 2026 | [Episode 140]() |
+| <img src="thumbnails/141.png" width="120"> | **0141** | Beyond The Headlines #0141 \| Real News, Deeper Perspective \| 19th October 2026 | [Episode 141]() |
+| <img src="thumbnails/142.png" width="120"> | **0142** | Beyond The Headlines #0142 \| Real News, Deeper Perspective \| 20th October 2026 | [Episode 142]() |
+| <img src="thumbnails/143.png" width="120"> | **0143** | Beyond The Headlines #0143 \| Real News, Deeper Perspective \| 21st October 2026 | [Episode 143]() |
+| <img src="thumbnails/144.png" width="120"> | **0144** | Beyond The Headlines #0144 \| Real News, Deeper Perspective \| 22nd October 2026 | [Episode 144]() |
+| <img src="thumbnails/145.png" width="120"> | **0145** | Beyond The Headlines #0145 \| Real News, Deeper Perspective \| 23rd October 2026 | [Episode 145]() |
+| <img src="thumbnails/146.png" width="120"> | **0146** | Beyond The Headlines #0146 \| Real News, Deeper Perspective \| 24th October 2026 | [Episode 146]() |
+| <img src="thumbnails/147.png" width="120"> | **0147** | Beyond The Headlines #0147 \| Real News, Deeper Perspective \| 25th October 2026 | [Episode 147]() |
+| <img src="thumbnails/148.png" width="120"> | **0148** | Beyond The Headlines #0148 \| Real News, Deeper Perspective \| 26th October 2026 | [Episode 148]() |
+| <img src="thumbnails/149.png" width="120"> | **0149** | Beyond The Headlines #0149 \| Real News, Deeper Perspective \| 27th October 2026 | [Episode 149]() |
+| <img src="thumbnails/150.png" width="120"> | **0150** | Beyond The Headlines #0150 \| Real News, Deeper Perspective \| 28th October 2026 | [Episode 150]() |
+| <img src="thumbnails/151.png" width="120"> | **0151** | Beyond The Headlines #0151 \| Real News, Deeper Perspective \| 29th October 2026 | [Episode 151]() |
+| <img src="thumbnails/152.png" width="120"> | **0152** | Beyond The Headlines #0152 \| Real News, Deeper Perspective \| 30th October 2026 | [Episode 152]() |
+| <img src="thumbnails/153.png" width="120"> | **0153** | Beyond The Headlines #0153 \| Real News, Deeper Perspective \| 31st October 2026 | [Episode 153]() |
+| <img src="thumbnails/154.png" width="120"> | **0154** | Beyond The Headlines #0154 \| Real News, Deeper Perspective \| 1st November 2026 | [Episode 154]() |
+| <img src="thumbnails/155.png" width="120"> | **0155** | Beyond The Headlines #0155 \| Real News, Deeper Perspective \| 2nd November 2026 | [Episode 155]() |
+| <img src="thumbnails/156.png" width="120"> | **0156** | Beyond The Headlines #0156 \| Real News, Deeper Perspective \| 3rd November 2026 | [Episode 156]() |
+| <img src="thumbnails/157.png" width="120"> | **0157** | Beyond The Headlines #0157 \| Real News, Deeper Perspective \| 4th November 2026 | [Episode 157]() |
+| <img src="thumbnails/158.png" width="120"> | **0158** | Beyond The Headlines #0158 \| Real News, Deeper Perspective \| 5th November 2026 | [Episode 158]() |
+| <img src="thumbnails/159.png" width="120"> | **0159** | Beyond The Headlines #0159 \| Real News, Deeper Perspective \| 6th November 2026 | [Episode 159]() |
+| <img src="thumbnails/160.png" width="120"> | **0160** | Beyond The Headlines #0160 \| Real News, Deeper Perspective \| 7th November 2026 | [Episode 160]() |
+| <img src="thumbnails/161.png" width="120"> | **0161** | Beyond The Headlines #0161 \| Real News, Deeper Perspective \| 8th November 2026 | [Episode 161]() |
+| <img src="thumbnails/162.png" width="120"> | **0162** | Beyond The Headlines #0162 \| Real News, Deeper Perspective \| 9th November 2026 | [Episode 162]() |
+| <img src="thumbnails/163.png" width="120"> | **0163** | Beyond The Headlines #0163 \| Real News, Deeper Perspective \| 10th November 2026 | [Episode 163]() |
+| <img src="thumbnails/164.png" width="120"> | **0164** | Beyond The Headlines #0164 \| Real News, Deeper Perspective \| 11th November 2026 | [Episode 164]() |
+| <img src="thumbnails/165.png" width="120"> | **0165** | Beyond The Headlines #0165 \| Real News, Deeper Perspective \| 12th November 2026 | [Episode 165]() |
+| <img src="thumbnails/166.png" width="120"> | **0166** | Beyond The Headlines #0166 \| Real News, Deeper Perspective \| 13th November 2026 | [Episode 166]() |
+| <img src="thumbnails/167.png" width="120"> | **0167** | Beyond The Headlines #0167 \| Real News, Deeper Perspective \| 14th November 2026 | [Episode 167]() |
+| <img src="thumbnails/168.png" width="120"> | **0168** | Beyond The Headlines #0168 \| Real News, Deeper Perspective \| 15th November 2026 | [Episode 168]() |
+| <img src="thumbnails/169.png" width="120"> | **0169** | Beyond The Headlines #0169 \| Real News, Deeper Perspective \| 16th November 2026 | [Episode 169]() |
+| <img src="thumbnails/170.png" width="120"> | **0170** | Beyond The Headlines #0170 \| Real News, Deeper Perspective \| 17th November 2026 | [Episode 170]() |
+| <img src="thumbnails/171.png" width="120"> | **0171** | Beyond The Headlines #0171 \| Real News, Deeper Perspective \| 18th November 2026 | [Episode 171]() |
+| <img src="thumbnails/172.png" width="120"> | **0172** | Beyond The Headlines #0172 \| Real News, Deeper Perspective \| 19th November 2026 | [Episode 172]() |
+| <img src="thumbnails/173.png" width="120"> | **0173** | Beyond The Headlines #0173 \| Real News, Deeper Perspective \| 20th November 2026 | [Episode 173]() |
+| <img src="thumbnails/174.png" width="120"> | **0174** | Beyond The Headlines #0174 \| Real News, Deeper Perspective \| 21st November 2026 | [Episode 174]() |
+| <img src="thumbnails/175.png" width="120"> | **0175** | Beyond The Headlines #0175 \| Real News, Deeper Perspective \| 22nd November 2026 | [Episode 175]() |
+| <img src="thumbnails/176.png" width="120"> | **0176** | Beyond The Headlines #0176 \| Real News, Deeper Perspective \| 23rd November 2026 | [Episode 176]() |
+| <img src="thumbnails/177.png" width="120"> | **0177** | Beyond The Headlines #0177 \| Real News, Deeper Perspective \| 24th November 2026 | [Episode 177]() |
+| <img src="thumbnails/178.png" width="120"> | **0178** | Beyond The Headlines #0178 \| Real News, Deeper Perspective \| 25th November 2026 | [Episode 178]() |
+| <img src="thumbnails/179.png" width="120"> | **0179** | Beyond The Headlines #0179 \| Real News, Deeper Perspective \| 26th November 2026 | [Episode 179]() |
+| <img src="thumbnails/180.png" width="120"> | **0180** | Beyond The Headlines #0180 \| Real News, Deeper Perspective \| 27th November 2026 | [Episode 180]() |
+| <img src="thumbnails/181.png" width="120"> | **0181** | Beyond The Headlines #0181 \| Real News, Deeper Perspective \| 28th November 2026 | [Episode 181]() |
+| <img src="thumbnails/182.png" width="120"> | **0182** | Beyond The Headlines #0182 \| Real News, Deeper Perspective \| 29th November 2026 | [Episode 182]() |
+| <img src="thumbnails/183.png" width="120"> | **0183** | Beyond The Headlines #0183 \| Real News, Deeper Perspective \| 30th November 2026 | [Episode 183]() |
+| <img src="thumbnails/184.png" width="120"> | **0184** | Beyond The Headlines #0184 \| Real News, Deeper Perspective \| 1st December 2026 | [Episode 184]() |
+| <img src="thumbnails/185.png" width="120"> | **0185** | Beyond The Headlines #0185 \| Real News, Deeper Perspective \| 2nd December 2026 | [Episode 185]() |
+| <img src="thumbnails/186.png" width="120"> | **0186** | Beyond The Headlines #0186 \| Real News, Deeper Perspective \| 3rd December 2026 | [Episode 186]() |
+| <img src="thumbnails/187.png" width="120"> | **0187** | Beyond The Headlines #0187 \| Real News, Deeper Perspective \| 4th December 2026 | [Episode 187]() |
+| <img src="thumbnails/188.png" width="120"> | **0188** | Beyond The Headlines #0188 \| Real News, Deeper Perspective \| 5th December 2026 | [Episode 188]() |
+| <img src="thumbnails/189.png" width="120"> | **0189** | Beyond The Headlines #0189 \| Real News, Deeper Perspective \| 6th December 2026 | [Episode 189]() |
+| <img src="thumbnails/190.png" width="120"> | **0190** | Beyond The Headlines #0190 \| Real News, Deeper Perspective \| 7th December 2026 | [Episode 190]() |
+| <img src="thumbnails/191.png" width="120"> | **0191** | Beyond The Headlines #0191 \| Real News, Deeper Perspective \| 8th December 2026 | [Episode 191]() |
+| <img src="thumbnails/192.png" width="120"> | **0192** | Beyond The Headlines #0192 \| Real News, Deeper Perspective \| 9th December 2026 | [Episode 192]() |
+| <img src="thumbnails/193.png" width="120"> | **0193** | Beyond The Headlines #0193 \| Real News, Deeper Perspective \| 10th December 2026 | [Episode 193]() |
+| <img src="thumbnails/194.png" width="120"> | **0194** | Beyond The Headlines #0194 \| Real News, Deeper Perspective \| 11th December 2026 | [Episode 194]() |
+| <img src="thumbnails/195.png" width="120"> | **0195** | Beyond The Headlines #0195 \| Real News, Deeper Perspective \| 12th December 2026 | [Episode 195]() |
+| <img src="thumbnails/196.png" width="120"> | **0196** | Beyond The Headlines #0196 \| Real News, Deeper Perspective \| 13th December 2026 | [Episode 196]() |
+| <img src="thumbnails/197.png" width="120"> | **0197** | Beyond The Headlines #0197 \| Real News, Deeper Perspective \| 14th December 2026 | [Episode 197]() |
+| <img src="thumbnails/198.png" width="120"> | **0198** | Beyond The Headlines #0198 \| Real News, Deeper Perspective \| 15th December 2026 | [Episode 198]() |
+| <img src="thumbnails/199.png" width="120"> | **0199** | Beyond The Headlines #0199 \| Real News, Deeper Perspective \| 16th December 2026 | [Episode 199]() |
+| <img src="thumbnails/200.png" width="120"> | **0200** | Beyond The Headlines #0200 \| Real News, Deeper Perspective \| 17th December 2026 | [Episode 200]() |
 
 ---
 
