@@ -24,7 +24,7 @@
 
 ---
 
-## 📰 About The Series
+## 📰 About The Series 
 
 **Beyond The Headlines** is [ThinkHub's](https://www.youtube.com/@ThinkHubbydaksh) flagship daily news and analysis series, covering current affairs, artificial intelligence, technology, geopolitics, business, science, and the deeper perspective behind the headlines.
 
