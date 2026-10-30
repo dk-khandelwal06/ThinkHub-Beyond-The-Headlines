@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="assets/thinkhub-logo.png" width="25%" alt="ThinkHub Banner">
+  <img src="assets/thinkhub-logo.png" width="25%" alt="ThinkHub Logo">
 </p>
 
-<h1 align="center">Beyond The Headlines</h1>
+<h1 align="center">
+  <a href="https://www.youtube.com/playlist?list=PLo4bWJuaHY0pye-eOI-wc3ovf9WR3f2XJ">
+    Beyond The Headlines
+  </a>
+</h1>
 
 <p align="center">
   <strong>
