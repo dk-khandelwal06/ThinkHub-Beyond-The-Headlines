@@ -199,7 +199,7 @@
 | <img src="thumbnails/151.png" width="120"> | **0151** | Beyond The Headlines #0151 \| Real News, Deeper Perspective \| 29th October 2026 | [Episode 151](https://youtu.be/f7jcMoN_b4Y?si=Ut1hDu6FcRXOn3H4) |
 | <img src="thumbnails/152.png" width="120"> | **0152** | Beyond The Headlines #0152 \| Real News, Deeper Perspective \| 30th October 2026 | [Episode 152](https://youtu.be/f4TPJHtYVsM?si=DGcwRPzGnv6Nd99s) |
 | <img src="thumbnails/153.png" width="120"> | **0153** | Beyond The Headlines #0153 \| Real News, Deeper Perspective \| 31st October 2026 | [Episode 153](https://youtu.be/GeaTjwWT9BY?si=3eAF5bN6p3ce5uUy) |
-| <img src="thumbnails/154.png" width="120"> | **0154** | Beyond The Headlines #0154 \| Real News, Deeper Perspective \| 1st November 2026 | [Episode 154]() |
+| <img src="thumbnails/154.png" width="120"> | **0154** | Beyond The Headlines #0154 \| Real News, Deeper Perspective \| 1st November 2026 | [Episode 154](https://youtu.be/dOZGbExqyMI?si=RhvYG5qNwy9blR46) |
 | <img src="thumbnails/155.png" width="120"> | **0155** | Beyond The Headlines #0155 \| Real News, Deeper Perspective \| 2nd November 2026 | [Episode 155]() |
 | <img src="thumbnails/156.png" width="120"> | **0156** | Beyond The Headlines #0156 \| Real News, Deeper Perspective \| 3rd November 2026 | [Episode 156]() |
 | <img src="thumbnails/157.png" width="120"> | **0157** | Beyond The Headlines #0157 \| Real News, Deeper Perspective \| 4th November 2026 | [Episode 157]() |
