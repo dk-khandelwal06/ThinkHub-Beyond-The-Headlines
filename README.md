@@ -223,7 +223,7 @@
 | <img src="thumbnails/175.png" width="120"> | **0175** | Beyond The Headlines #0175 \| Real News, Deeper Perspective \| 22nd November 2026 | [Episode 175](https://youtu.be/HDaR2XgtqlQ?si=GEcC23I_KHntaVXd) |
 | <img src="thumbnails/176.png" width="120"> | **0176** | Beyond The Headlines #0176 \| Real News, Deeper Perspective \| 23rd November 2026 | [Episode 176](https://youtu.be/HBHvWo8JoHA?si=lCmdQoMghsamPCBh) |
 | <img src="thumbnails/177.png" width="120"> | **0177** | Beyond The Headlines #0177 \| Real News, Deeper Perspective \| 24th November 2026 | [Episode 177](https://youtu.be/6y9SXblmasg?si=G741oL6mmfP_REWY) |
-| <img src="thumbnails/178.png" width="120"> | **0178** | Beyond The Headlines #0178 \| Real News, Deeper Perspective \| 25th November 2026 | [Episode 178]() |
+| <img src="thumbnails/178.png" width="120"> | **0178** | Beyond The Headlines #0178 \| Real News, Deeper Perspective \| 25th November 2026 | [Episode 178](https://youtu.be/66cboO7Ltv0?si=UdKuOQZcFttQWVDv) |
 | <img src="thumbnails/179.png" width="120"> | **0179** | Beyond The Headlines #0179 \| Real News, Deeper Perspective \| 26th November 2026 | [Episode 179]() |
 | <img src="thumbnails/180.png" width="120"> | **0180** | Beyond The Headlines #0180 \| Real News, Deeper Perspective \| 27th November 2026 | [Episode 180]() |
 | <img src="thumbnails/181.png" width="120"> | **0181** | Beyond The Headlines #0181 \| Real News, Deeper Perspective \| 28th November 2026 | [Episode 181]() |
